@@ -1,6 +1,6 @@
 # Browser-specific redirection example
 
-Source code for [http://browser-specific-redirection.herokuapp.com]().
+Source code for [](http://browser-specific-redirection.herokuapp.com).
 
 This is an example of how to provide a single URL that can be handled differently based on the browser.
 
@@ -23,4 +23,4 @@ You should see something like:
 05:37:47 web.1  | [2014-06-24 05:37:47] INFO  WEBrick::HTTPServer#start: pid=14598 port=5000
 ```
 
-Then go to [http://localhost:5000]().
+Then go to [](http://localhost:5000).
